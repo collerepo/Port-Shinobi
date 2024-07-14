@@ -1,9 +1,9 @@
 
-Stealthy Port Sentinel: A Port Scanner specialized in Covert & Advanced Evasion Techniques
+Port Shinobi: A Port Scanner specialized in Covert & Advanced Evasion Techniques
 ============================================================================================
 
 **Description:**
-Stealthy Port Sentinel is a Python-based port scanner designed to evade detection by modern security systems. It employs advanced techniques such as polymorphism, metamorphism, and anti-debugging to remain stealthy while scanning for open ports on a target system.
+Port Shinobi is a Python-based port scanner designed to evade detection by modern security systems. It employs advanced techniques such as polymorphism, metamorphism, and anti-debugging to remain stealthy while scanning for open ports on a target system.
 
 **Features:**
 
@@ -29,4 +29,4 @@ $ python3 PortSentinel.py <target_ip>
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 **Warning:**
-This tool is for educational purposes only and should not be used for malicious activities. By proceeding, you are agreeing to the ethical considerations of this publication at your own risk. All simulated runs were conducted by a Security Researcher in a controlled and isolated environment which targeted a live dummy system for realistic results.
+This tool is for educational purposes only and should not be used for malicious activities. By proceeding further, you are adhereing to your regional regulations and the ethical consideration of this publication at your own risk. All simulated trials were conducted by a Security Researcher in a controlled, isolated environment which targeted a live dummy system for realistic results.
