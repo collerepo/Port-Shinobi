@@ -29,4 +29,4 @@ $ python3 PortSentinel.py <target_ip>
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 **Warning:**
-This tool is for educational purposes only and should not be used for malicious activities. By proceeding further, you are adhereing to your regional regulations and the ethical consideration of this publication at your own risk. All simulated trials were conducted by a Security Researcher in a controlled, isolated environment which targeted a live dummy system for realistic results.
+This tool is for educational purposes only and should not be used for malicious activities. By proceeding further, you are adhereing to your regional regulations and the ethical consideration of this publication at your own risk. All simulated trials were conducted by a Security Researcher in a controlled, isolated environment which targeted a live dummy system for best results.
