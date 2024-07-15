@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Port-Shinobi! Any help is much ap
 
 ### Reporting Issues
 
-* If you encounter any issues or errors while using Port-Shinobi, please report them on the [Issues](https://github.com/[Your GitHub Username]/Port-Shinobi/issues) page.
+* If you encounter any issues or errors while using Port-Shinobi, please report them on the [Issues](https://github.com/collerepo/Port-Shinobi/issues) page.
 * Provide as much detail as possible, including the target IP, the command used, and any error messages.
 
 ### Fixing Bugs
