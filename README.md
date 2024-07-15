@@ -14,7 +14,7 @@ Port Shinobi is a Python-based port scanner designed to evade detection by moder
 * Includes anti-debugging measures to detect and respond to debugging attempts
 
 **Usage (when executing through CLI/Terminal):**
-$ python3 PortSentinel.py <target_ip>
+$ python3 port_shinobi.py <target_ip>
 
 **Requirements:**
 
