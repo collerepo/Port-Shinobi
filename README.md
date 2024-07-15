@@ -4,7 +4,7 @@ Port Shinobi: A Port Scanner specialized in Covert & Advanced Evasion Techniques
 
 **Description:**
 ------------------------
-Port Shinobi is a Python-based port scanner designed to evade detection by modern security systems. It employs advanced techniques such as polymorphism, metamorphism, and anti-debugging to remain stealthy while scanning for open ports on a target system.
+Port Shinobi is a Python-based port scanner designed to evade detection by modern security systems. It employs advanced techniques such as polymorphism, metamorphism, and anti-debugging to remain undetected while scanning for open ports on a target system.
 
 **Features:**
 -----------------------
@@ -37,7 +37,21 @@ The script will scan the target IP address for open ports and display the result
 
 **License:**
 ------------------------
-This project is licensed under the MIT License. See `LICENSE.md` for details.
+This project is licensed under the Apache 2.0 License. See `LICENSE.md` for details.
+
+Copyright 2024 Rodrigo Coll
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 **Warning:**
 ------------------------
