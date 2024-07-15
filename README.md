@@ -9,7 +9,7 @@ Port Shinobi is a Python-based port scanner designed to evade detection by moder
 **Features:**
 -----------------------
 * Scans for open ports on a target system
-* SUpports multi-port scans
+* Supports multi-port scans
 * 2 Second timeout for each port scan ran
 * Employs persistence to reconnect to open ports
 * Escalates to privileged mode using a custom payload
